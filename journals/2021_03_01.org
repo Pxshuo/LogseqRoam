@@ -16,4 +16,5 @@ sudo apt-get install -f
 *** 执行初始化的配置
 ** emacs个性化配置
 *** doom emacs : 简约
-***
+*** 参考
+****
