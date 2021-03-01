@@ -1,4 +1,4 @@
 #+TITLE: Mar 1st, 2021
 
 ** Linux升级浏览器版本
-***
+*** [[https://blog.csdn.net/niubiqigai/article/details/83629638][ubuntu三行命令更新谷歌浏览器版本_niubiqigai的博客-CSDN博客]]
