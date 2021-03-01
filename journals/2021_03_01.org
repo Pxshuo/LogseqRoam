@@ -34,5 +34,8 @@ sudo apt-get install -f
 **** [[https://www.bilibili.com/video/BV1Uf4y1z77J?from=search&seid=13583503666714024079][Emacs 一个插件配置的简单思路_哔哩哔哩 (゜-゜)つロ 干杯~-bilibili]]
 **** [[https://emacs-china.org/t/org-babel/16444][分享一下自己的配置，用org-babel管理个人配置真的太棒了 - 闲聊灌水 - Emacs China]]
 ** Roam:
-*** [[https://sspai.com/post/62414][玩转 Obsidian | 打造知识循环利器 - 少数派]]
+*** TODO [[https://sspai.com/post/62414][玩转 Obsidian | 打造知识循环利器 - 少数派]]
+:PROPERTIES:
+:todo: 1614588514698
+:END:
 ***
