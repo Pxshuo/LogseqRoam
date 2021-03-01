@@ -43,4 +43,4 @@ emacs -q -l ~/software/env/emacs/zeroemacs/config.el
 :later: 1614587112667
 :END:
 *** [[https://emacs-china.org/t/emacs-windows10-emacs-11/14335][零秒精通Emacs之Windows10上畅行无碍地使用emacs的11步骤 - 闲聊灌水 - Emacs China]] :: 里面有一些有意思的东西
-** 官网 [[https://emacs-china.org/][Emacs China]]
+** 中文官网: [[https://emacs-china.org/][Emacs China]]
