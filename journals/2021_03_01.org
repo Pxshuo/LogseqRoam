@@ -1,6 +1,6 @@
 #+TITLE: Mar 1st, 2021
 
-** Linux升级浏览器版本
+** Linux升级浏览器版本 [[Linux软件安装]]
 *** [[https://blog.csdn.net/niubiqigai/article/details/83629638][ubuntu三行命令更新谷歌浏览器版本-CSDN博客]]
 ***
 #+BEGIN_SRC bash
