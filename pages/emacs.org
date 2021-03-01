@@ -46,4 +46,4 @@ emacs -q -l ~/software/env/emacs/zeroemacs/config.el
 ** 中文官网: [[https://emacs-china.org/][Emacs China]]
 ** Emacs安装
 *** [[https://blog.csdn.net/mathadora/article/details/79463046][emacs学习笔记（package列表查看&添加packages源&安装packages）_MathaDora的博客-CSDN博客_emacs package]] : 安装源的选择
-***
+**
