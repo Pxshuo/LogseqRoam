@@ -16,6 +16,7 @@ sudo apt-get install -f
 *** 执行初始化的配置
 ** emacs个性化配置
 *** doom emacs : 简约
+*** vanilla emacs : 没有找到
 *** LATER 参考
 :PROPERTIES:
 :later: 1614586572165
