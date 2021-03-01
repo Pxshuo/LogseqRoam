@@ -47,4 +47,7 @@ emacs -q -l ~/software/env/emacs/zeroemacs/config.el
 ** Emacs安装
 *** [[https://blog.csdn.net/mathadora/article/details/79463046][emacs学习笔记（package列表查看&添加packages源&安装packages）_MathaDora的博客-CSDN博客_emacs package]] : 安装源的选择
 ** Org-Mode相关
-***
+*** LATER [[https://www.zmonster.me/2020/06/27/org-roam-introduction.html][使用 org-roam 构建自己的知识网络 · ZMonster's Blog]]
+:PROPERTIES:
+:later: 1614588400165
+:END:
