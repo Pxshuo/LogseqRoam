@@ -22,7 +22,8 @@ sudo apt-get install -f
 :later: 1614586778121
 :done: 1614586663666
 :END:
-*** vanilla emacs : 没有找到
+*** vanilla emacs : 原生
+**** （题外话，为什么vanilla这个单词描述原生版本呢？因为vanilla的词源是virgin）
 *** LATER 参考
 :PROPERTIES:
 :later: 1614586572165
