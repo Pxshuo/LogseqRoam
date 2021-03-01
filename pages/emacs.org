@@ -38,4 +38,9 @@ emacs -q -l ~/software/env/emacs/zeroemacs/config.el
 (provide 'config.el)
 ;;; config.el ends here
 #+END_SRC
-** 相关
+** LATER 相关文章
+:PROPERTIES:
+:later: 1614587112667
+:END:
+*** [[https://emacs-china.org/t/emacs-windows10-emacs-11/14335][零秒精通Emacs之Windows10上畅行无碍地使用emacs的11步骤 - 闲聊灌水 - Emacs China]]
+***
