@@ -13,6 +13,28 @@
 # 其中 -q(quick) 为 --no-init-file 不加载任何初始配置文件， 而核心的 -l 选项则为 -l file, --load-file。
 emacs -q -l ~/software/env/emacs/zeroemacs/config.el
 #+END_SRC
-**** #+BEGIN_SRC elisp
-emacs -q -l ~/.zeroemacs/config.el
-#+END
+****
+#+BEGIN_SRC elisp
+(setq user-emacs-directory "~/software/env/emacs/zeroemacs")
+
+;; 加载路径
+(add-to-list 'load-path "~/software/env/emacs/zeroemacs/elpa/ivy-0.13.1/")
+(add-to-list 'load-path "~/software/env/emacs/zeroemacs/elpa/counsel-0.13.1/")
+(add-to-list 'load-path "~/software/env/emacs/zeroemacs/elpa/swiper-0.13.1/")
+
+;;分别加载这三个包
+(require 'ivy)
+(require 'swiper)
+(require 'counsel)
+
+(ivy-mode 1)
+(counsel-mode 1)
+
+(global-set-key "\C-s" 'swiper-isearch)
+(global-set-key (kbd "M-x") 'counsel-M-x)
+(global-set-key (kbd "C-x C-f") 'counsel-find-file)
+(global-set-key "\C-xb" 'ivy-switch-buffer)
+
+(provide 'config.el)
+;;; config.el ends here
+#+END_SRC
