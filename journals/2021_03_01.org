@@ -9,4 +9,4 @@ sudo dpkg -i google-chrome*
 sudo apt-get install -f
 #+END_SRC
 ** emacs -Q
-*** 执行
+***
