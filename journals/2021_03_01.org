@@ -38,4 +38,4 @@ sudo apt-get install -f
 :PROPERTIES:
 :todo: 1614588514698
 :END:
-***
+*** [[https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI1NTA4Nzk5Mw==&action=getalbum&album_id=1464601583634939905][https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI1NTA4Nzk5Mw==&action=getalbum&album_id=1464601583634939905]]
