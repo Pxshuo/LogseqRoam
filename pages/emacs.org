@@ -2,4 +2,5 @@
 
 ** Emacs -Q 执行命令
 
+*** [[https://emacs-china.org/t/zeroemacs-emacs/16437][ZeroEmacs: 从零配置你的Emacs - Emacs China]]
 ***
