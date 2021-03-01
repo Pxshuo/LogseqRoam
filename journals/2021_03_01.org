@@ -2,4 +2,9 @@
 
 ** Linux升级浏览器版本
 *** [[https://blog.csdn.net/niubiqigai/article/details/83629638][ubuntu三行命令更新谷歌浏览器版本-CSDN博客]]
-*** #+BEGIN_SRC bash
+***
+#+BEGIN_SRC bash
+wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+sudo dpkg -i google-chrome*
+sudo apt-get install -f
+#+END_SRC
