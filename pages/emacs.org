@@ -44,4 +44,5 @@ emacs -q -l ~/software/env/emacs/zeroemacs/config.el
 :END:
 *** [[https://emacs-china.org/t/emacs-windows10-emacs-11/14335][零秒精通Emacs之Windows10上畅行无碍地使用emacs的11步骤 - 闲聊灌水 - Emacs China]] :: 里面有一些有意思的东西
 ** 中文官网: [[https://emacs-china.org/][Emacs China]]
-**
+** Emacs安装
+*** [[https://blog.csdn.net/mathadora/article/details/79463046][emacs学习笔记（package列表查看&添加packages源&安装packages）_MathaDora的博客-CSDN博客_emacs package]] :
