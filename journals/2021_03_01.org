@@ -32,4 +32,4 @@ sudo apt-get install -f
 **** [[https://www.zhihu.com/question/60367907/answer/303747403][Doom这个Emacs配置文件的使用体验如何？ - 知乎]]
 **** [[https://emacs-china.org/t/zeroemacs-emacs/16437][ZeroEmacs: 从零配置你的Emacs - 闲聊灌水 - Emacs China]]
 **** [[https://www.bilibili.com/video/BV1Uf4y1z77J?from=search&seid=13583503666714024079][Emacs 一个插件配置的简单思路_哔哩哔哩 (゜-゜)つロ 干杯~-bilibili]]
-****
+**** [[https://emacs-china.org/t/org-babel/16444][分享一下自己的配置，用org-babel管理个人配置真的太棒了 - 闲聊灌水 - Emacs China]]
