@@ -9,7 +9,7 @@ sudo dpkg -i google-chrome*
 sudo apt-get install -f
 #+END_SRC
 ** emacs -Q
-*** LATER [[Emacs]]
+*** [[Emacs]]
 :PROPERTIES:
 :later: 1614585160665
 :END:
