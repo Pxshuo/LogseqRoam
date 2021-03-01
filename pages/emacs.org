@@ -4,3 +4,6 @@
 
 *** [[https://emacs-china.org/t/zeroemacs-emacs/16437][ZeroEmacs: 从零配置你的Emacs - Emacs China]]
 *** 从零生成一个最小配置
+#BEGIN_SRC elisp
+
+#END
