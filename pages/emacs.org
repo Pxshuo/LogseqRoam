@@ -6,5 +6,5 @@
 *** 从零生成一个最小配置
 **** #BEGIN_SRC bash
 emacs -q -l ~/.zeroemacs/config.el
-#END
+#END_SRC
 ****
