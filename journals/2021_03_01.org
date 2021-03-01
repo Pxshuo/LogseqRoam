@@ -19,7 +19,7 @@ sudo apt-get install -f
 :PROPERTIES:
 :todo: 1614586670165
 :now: 1614586651665
-:later: 1614586722165
+:later: 1614586764665
 :done: 1614586663666
 :END:
 *** vanilla emacs : 没有找到
