@@ -46,7 +46,10 @@ emacs -q -l ~/software/env/emacs/zeroemacs/config.el
 ** Emacs相关文档
 *** 中文官网: [[https://emacs-china.org/][Emacs China]]
 *** 文档翻译: [[https://github.com/running-grass/omegat][running-grass/omegat: 已切换至新项目]]
-**** [[https://crowdin.com/project/emacs-manual-chinese/invite/public?show_welcome&d=ae57e8cfee99715d715c2f1c2d81ba451286560][Emacs中文手册 translations in Crowdin]] | 这个还不知道怎么用
+**** LATER [[https://crowdin.com/project/emacs-manual-chinese/invite/public?show_welcome&d=ae57e8cfee99715d715c2f1c2d81ba451286560][Emacs中文手册 translations in Crowdin]] | 这个还不知道怎么用
+:PROPERTIES:
+:later: 1614588802165
+:END:
 ****
 ** Emacs安装
 *** TODO [[https://blog.csdn.net/mathadora/article/details/79463046][emacs学习笔记（package列表查看&添加packages源&安装packages）_MathaDora的博客-CSDN博客_emacs package]] : 安装源的选择
