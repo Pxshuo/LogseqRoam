@@ -2,9 +2,10 @@
 
 ** Emacs -Q 执行命令
 
-*** LATER [[https://emacs-china.org/t/zeroemacs-emacs/16437][ZeroEmacs: 从零配置你的Emacs - Emacs China]]
+*** DONE [[https://emacs-china.org/t/zeroemacs-emacs/16437][ZeroEmacs: 从零配置你的Emacs - Emacs China]]
 :PROPERTIES:
 :later: 1614586267166
+:done: 1614586272244
 :END:
 *** 从零生成一个最小配置
 ****
