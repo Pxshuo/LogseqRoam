@@ -9,4 +9,3 @@ sudo dpkg -i google-chrome*
 sudo apt-get install -f
 #+END_SRC
 ** Emacs
-***
