@@ -14,4 +14,6 @@ sudo apt-get install -f
 :later: 1614585160665
 :END:
 *** 执行初始化的配置
-** emacs
+** emacs配置
+*** doom emacs : 简约
+***
