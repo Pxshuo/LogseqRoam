@@ -17,8 +17,9 @@ sudo apt-get install -f
 ** emacs个性化配置
 *** NOW doom emacs : 简约
 :PROPERTIES:
-:later: 1614586640666
-:now: 1614586642665
+:now: 1614586651665
+:later: 1614586649665
+:done: 1614586644165
 :END:
 *** vanilla emacs : 没有找到
 *** LATER 参考
