@@ -1,6 +1,6 @@
 #+TITLE: Mar 25th, 2021
 
-** LATER [[tag-阅读]] 津巴多普通心理学：记忆相关
+** LATER [[tag-阅读]] [[tag-心血来潮]] 津巴多普通心理学：记忆相关
 :PROPERTIES:
 :later: 1616635305813
 :END:
