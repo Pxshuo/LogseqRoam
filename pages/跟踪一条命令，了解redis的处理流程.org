@@ -1,0 +1,13 @@
+#+TITLE: 跟踪一条命令，了解redis的处理流程
+
+** 参考链接
+*** [[https://licheng123.github.io/2020/10/20/%E8%B7%9F%E8%B8%AA%E4%B8%80%E6%9D%A1%E5%91%BD%E4%BB%A4-%E4%BA%86%E8%A7%A3redis%E7%9A%84%E5%A4%84%E7%90%86%E6%B5%81%E7%A8%8B/][跟踪一条命令，了解redis的处理流程 - 李成的博客 | BY LC]]
+** [[tag-补充]] tomcat接受多个socket请求
+*** tomcat时的线程分配
+** redis的框架接受多个socket请求
+*** redis单线程的描述
+** 基础概念：redis协议,redis的事件,IO
+*** 事件驱动程序
+*** socket的读写操作使用非阻塞的I/O多路复用模型
+**** [[I/O模型与多路复用]]
+***
