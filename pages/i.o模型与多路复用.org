@@ -2,11 +2,23 @@
 
 ** 参考链接
 *** [[https://www.jianshu.com/p/439e8b349f48][I/O模型与多路复用 - 简书]]
+*** [[https://blog.csdn.net/historyasamirror/article/details/5778378][(13条消息) IO - 同步，异步，阻塞，非阻塞 （亡羊补牢篇）_智障大师 的专栏-CSDN博客]]
+*** [[https://xueshu.baidu.com/usercenter/paper/show?paperid=7cfa83b21fdd2b3c280fffa561c34500&site=xueshu_se][UNIX® NETWORK PROGRAMMING : THE SOCKETS NETWORKING API--VOLUME 1Third Edition - 百度学术]]
 ** LATER 基本概念
 :PROPERTIES:
 :later: 1617780598954
 :END:
 *** 同步 & 异步
-**** 用于描述处理多个事件(线程或进程)时的采取的策略的描述
+**** /用于描述处理多个事件(线程或进程)时的采取的策略的描述/
+**** 同步
+***** 多个事件按顺序执行, A执行完毕才会执行B
+***** 属于可靠的任务序列
+**** 异步
+***** 多个事件执行顺序没有依赖关系
+***** 属于不可靠的任务序列
 *** 阻塞 & 非阻塞
 **** 用于描述对于一个事件(线程或进程)的处理采取的策略的描述
+** 组合
+*** 同步阻塞
+*** 同步非阻塞
+*** 异步非阻塞 : 异步没法阻塞
