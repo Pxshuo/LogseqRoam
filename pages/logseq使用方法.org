@@ -7,4 +7,4 @@
 * 相关工具:
 ** [[https://www.zotero.org/][zotero]]
 * 翻译:
-**
+** 之前一直使用OmegaT来翻译HTML文件，后来发现这样的话就不能很好的转成Info格式了 最近几天使用Texinfo+Gettext+Po4a+GitHub+Crowdin搭了个翻译项目。 欢迎大家一起来参与翻译。 https://crwd.in/emacs-manual-chinese 目前持续集成还没弄，先翻译着，后续慢慢搞持续集成，自动输出多种文档。
