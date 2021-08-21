@@ -1,5 +1,7 @@
 * 官方文档
 ** https://logseq.github.io/#/page/getting%20started
 * 非官方文档:
+:PROPERTIES:
+:END:
 ** [[https://zhuanlan.zhihu.com/p/343854552][Logseq小白系列教程入门篇一]]
 **
