@@ -1,2 +1,4 @@
 * 官方文档
 ** https://logseq.github.io/#/page/getting%20started
+* 非官方文档:
+**
