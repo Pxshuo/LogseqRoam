@@ -6,4 +6,5 @@
 ** [[https://zhuanlan.zhihu.com/p/343854552][Logseq小白系列教程入门篇一]]
 * 相关工具:
 ** [[https://www.zotero.org/][zotero]]
-*
+* 翻译:
+**
