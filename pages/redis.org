@@ -28,4 +28,4 @@
 * 实现分布式锁的基础
 ** worker 单线程, 串行的
 ** 本地方法
-*** setnx
+*** setnx+timeout
