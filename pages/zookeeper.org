@@ -18,6 +18,7 @@
 ** session
 *** 连接恢复
 *** path node
+**** 持久的
 ****
 ** watch
 ***
