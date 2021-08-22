@@ -61,3 +61,5 @@
 * redlock算法
 ** redis单机挂掉了
 ** redlock, 多机
+** 不是redis实现, client的实现算法
+**
