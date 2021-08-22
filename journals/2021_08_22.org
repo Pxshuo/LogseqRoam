@@ -11,4 +11,4 @@
 ** 并发量不高
 *** 放到jvm有点压力大, tomcat负载均衡HA
 **** 多机
-***** session,redis
+***** session,redis 服务无状态, 加锁, 分布式事务
