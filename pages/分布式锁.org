@@ -15,7 +15,7 @@
 * 两大类分布式锁: 中间会产生IO行为
 ** 类CAS自旋
 *** 询问方式, 加锁, 轮询增加IO资源消耗
-*** mysql, redis
+*** mysql, [[redis]]
 ** event事件
 *** 事件回调
 *** zk, etcd
