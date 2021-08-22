@@ -16,5 +16,6 @@
 *** #TODO 互相发送消息, 带着自己的数据id(zxid) , serviceid
 **** 具体的选举机制
 ** session
-***
+*** 连接恢复
 ** watch
+***
