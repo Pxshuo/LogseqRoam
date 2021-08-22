@@ -19,6 +19,6 @@
 *** 连接恢复
 *** path node
 **** 持久的
-****
+**** 临时的node绑定session
 ** watch
 ***
