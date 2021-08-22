@@ -2,5 +2,7 @@
 ** [[redis]]
 *** redis
 ** [[zookeeper]]
+:PROPERTIES:
+:END:
 *** 关注锁
 ** 总是受网络影响, 队列, 异步, 响应式的方式, 绕开分布式锁
